@@ -3,7 +3,7 @@ Analyzer for Compiler
 
 see Question.docx
 
-a Great fork of https://github.com/POOYASP2/LexicalAnalysis
+a Great fork of https://github.com/POOYASP2/LexicalAnalysis but its completly different !
 
 that was an ww2 aircraft and i upgraded it to stealth 5-gen aircraft like f35
 

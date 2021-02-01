@@ -1,7 +1,7 @@
 # CompilerAnalyzer
 Analyzer for Compiler
 
-see Question.docs
+see Question.docx
 
 a Great fork of https://github.com/POOYASP2/LexicalAnalysis
 
